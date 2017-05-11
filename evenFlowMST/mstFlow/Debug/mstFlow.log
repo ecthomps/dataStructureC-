@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\christian thompson\source\repos\cis350\mstflow\source.cpp(139): warning C4018: '<': signed/unsigned mismatch
+c:\users\christian thompson\source\repos\cis350\mstflow\source.cpp(119): warning C4101: 'yPar': unreferenced local variable
+c:\users\christian thompson\source\repos\cis350\mstflow\source.cpp(119): warning C4101: 'xPar': unreferenced local variable
+c:\users\christian thompson\source\repos\cis350\mstflow\source.cpp(177): warning C4018: '<': signed/unsigned mismatch
+c:\users\christian thompson\source\repos\cis350\mstflow\source.cpp(205): warning C4018: '<': signed/unsigned mismatch
+c:\users\christian thompson\source\repos\cis350\mstflow\source.cpp(231): warning C4018: '<': signed/unsigned mismatch
+  mstFlow.vcxproj -> C:\Users\Christian Thompson\Source\Repos\cis350\mstFlow\Debug\mstFlow.exe
+  mstFlow.vcxproj -> C:\Users\Christian Thompson\Source\Repos\cis350\mstFlow\Debug\mstFlow.pdb (Partial PDB)
