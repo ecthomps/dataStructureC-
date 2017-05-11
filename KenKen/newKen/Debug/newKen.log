@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\christian thompson\documents\visual studio 2015\projects\newken\newken\source.cpp(49): warning C4101: 'symb': unreferenced local variable
+c:\users\christian thompson\documents\visual studio 2015\projects\newken\newken\source.cpp(48): warning C4101: 'num': unreferenced local variable
+  newKen.vcxproj -> C:\Users\Christian Thompson\Documents\Visual Studio 2015\Projects\newKen\Debug\newKen.exe
+  newKen.vcxproj -> C:\Users\Christian Thompson\Documents\Visual Studio 2015\Projects\newKen\Debug\newKen.pdb (Partial PDB)
