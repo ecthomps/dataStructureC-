@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\christian thompson\documents\visual studio 2015\projects\pocmon_prof\pocmon_prof\source.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\christian thompson\documents\visual studio 2015\projects\pocmon_prof\pocmon_prof\source.cpp(97): warning C4018: '<': signed/unsigned mismatch
+c:\users\christian thompson\documents\visual studio 2015\projects\pocmon_prof\pocmon_prof\source.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\christian thompson\documents\visual studio 2015\projects\pocmon_prof\pocmon_prof\source.cpp(131): warning C4018: '<': signed/unsigned mismatch
+c:\users\christian thompson\documents\visual studio 2015\projects\pocmon_prof\pocmon_prof\source.cpp(136): warning C4018: '<': signed/unsigned mismatch
+c:\users\christian thompson\documents\visual studio 2015\projects\pocmon_prof\pocmon_prof\source.cpp(154): warning C4018: '<': signed/unsigned mismatch
+c:\users\christian thompson\documents\visual studio 2015\projects\pocmon_prof\pocmon_prof\source.cpp(156): warning C4018: '<': signed/unsigned mismatch
+c:\users\christian thompson\documents\visual studio 2015\projects\pocmon_prof\pocmon_prof\source.cpp(174): warning C4018: '<': signed/unsigned mismatch
+c:\users\christian thompson\documents\visual studio 2015\projects\pocmon_prof\pocmon_prof\source.cpp(198): warning C4018: '<': signed/unsigned mismatch
+c:\users\christian thompson\documents\visual studio 2015\projects\pocmon_prof\pocmon_prof\source.cpp(213): warning C4018: '<': signed/unsigned mismatch
+  pocMon_prof.vcxproj -> C:\Users\Christian Thompson\Documents\Visual Studio 2015\Projects\pocMon_prof\Debug\pocMon_prof.exe
+  pocMon_prof.vcxproj -> C:\Users\Christian Thompson\Documents\Visual Studio 2015\Projects\pocMon_prof\Debug\pocMon_prof.pdb (Partial PDB)
